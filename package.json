@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "A Browserslist shareable config for Vue.",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gluons/browserslist-config-vue.git"
