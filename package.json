@@ -1,7 +1,7 @@
 {
   "name": "browserslist-config-vue",
   "version": "1.0.0",
-  "description": "A browserslist shareable config for Vue.",
+  "description": "A Browserslist shareable config for Vue.",
   "main": "index.js",
   "repository": {
     "type": "git",
