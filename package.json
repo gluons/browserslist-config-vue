@@ -6,6 +6,12 @@
   "files": [
     "index.js"
   ],
+  "keywords": [
+    "browserslist",
+    "browserslist-config",
+    "vue",
+    "vuejs"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gluons/browserslist-config-vue.git"
